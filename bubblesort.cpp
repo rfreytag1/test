@@ -10,9 +10,9 @@
 
 void bblsrt(int* array, int s)
 {
-  for(int i = 0; i < s-1; i++)
+  for(int i = 0; i <= s-1; i++)
   {
-    for(int j = i+1; j < s; j++)
+    for(int j = i+1; j <= s; j++)
     {
       if(array[i] > array[j]) qckswap(&array[i], &array[j]);
     }
