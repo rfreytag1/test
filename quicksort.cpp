@@ -6,8 +6,8 @@
  */
 
 #include <pthread.h>
-#include "quicksort.h"
-#include "quickswap.h"
+#include "quicksort.hpp"
+#include "quickswap.hpp"
 
 
 /*

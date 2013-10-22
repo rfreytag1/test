@@ -5,8 +5,8 @@
  *      Author: pfannkuchen
  */
 
-#include "quickswap.h"
-#include "bblsrt.h"
+#include "quickswap.hpp"
+#include "bubblesort.hpp"
 
 void bblsrt(int* array, int s)
 {

@@ -5,7 +5,7 @@
  *      Author: pfannkuchen
  */
 
-#include "linsearch.h"
+#include "linsearch.hpp"
 
 int linsearch(int* array, int s, int needle)
 {

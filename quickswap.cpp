@@ -4,6 +4,7 @@
  *  Created on: 22.10.2013
  *      Author: pfannkuchen
  */
+#include "quickswap.hpp"
 
 void qckswap(int *a, int *b)
 {

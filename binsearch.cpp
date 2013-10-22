@@ -4,7 +4,7 @@
  *  Created on: 22.10.2013
  *      Author: pfannkuchen
  */
-#include "binsearch.h"
+#include "binsearch.hpp"
 
 int binsearch(int* array, int s, int e, int needle)
 {
